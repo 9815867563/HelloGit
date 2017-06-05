@@ -1,0 +1,8 @@
+com\collab\dao\UserDao.class
+com\collab\daoImpl\UserDaoImpl.class
+com\collab\domain\User.class
+com\collab\restcontrollers\NormalController.class
+com\collab\config\WebAppConfig.class
+com\collab\restcontrollers\UserRestCon.class
+com\collab\config\ApplicationContextConfg.class
+com\collab\config\WebInitializer.class
